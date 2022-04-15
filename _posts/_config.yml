@@ -1,7 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
+---
+title: "Welcome to Jekyll!"
+date: 2022-04-15
+---
+
+
+author: Bharat chandra Mohantyt
+email: bharat@dhruvsoft.com
+theme: minima
+description: > Hii welcome to the blogs world tay tuned i will be getting soon.....
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
